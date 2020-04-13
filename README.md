@@ -1,6 +1,6 @@
 # genome-analysis
 
--- Overview -- 
+-- Overview 
 This project will be looking at a genome from the Human Genome Project. The goal is to assess what kind of genetic variants the person could have that may lead to diseases. This was done by aligning, genotyping, and annotating a genome from the Human Genome Project.
 
 -- Methods
